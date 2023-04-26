@@ -1,0 +1,14 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 48 48" height="48px" width="48px">
+    
+    <title>sale-tag-circle-48x48</title>
+    <desc>Created with Sketch.</desc>
+    <g fill-rule="evenodd" fill="none" stroke-width="1" stroke="none" id="sale-tag-circle-48x48">
+        <circle r="15" cy="24" cx="24" stroke-width="1.5" stroke="#243746" id="Oval"></circle>
+        <g transform="translate(16.000000, 16.000000)" id="sale-tag-16x16">
+            <g transform="translate(9.000000, 7.500000) rotate(45.000000) translate(-9.000000, -7.500000) translate(5.000000, 1.000000)" id="Sale-Tag">
+                <polygon points="0 4 4 -8.8817842e-16 8 4 8 13 0 13" stroke-linejoin="round" stroke-linecap="round" stroke-width="1.5" stroke="#243746" id="Rectangle"></polygon>
+                <circle r="1" cy="5" cx="4" fill="#243746" id="Oval"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

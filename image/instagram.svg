@@ -1,0 +1,15 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 32 33" height="33px" width="32px">
+    <title>soical-instagram-filled-circle-gravy-48x48</title>
+    <g fill-rule="evenodd" fill="none" stroke-width="1" stroke="none" id="Icons">
+        <g transform="translate(-686.000000, -906.000000)" id="functional-icons-48x48">
+            <g transform="translate(678.000000, 873.500000)" id="social-instagram">
+                <g transform="translate(0.000000, 25.000000)" id="soical-instagram-filled-circle-gravy-48x48">
+                    <circle r="15" cy="24" cx="23.7780739" fill="#243746" id="Oval"></circle>
+                    <circle r="15" cy="24" cx="23.7780739" stroke-linejoin="round" stroke-linecap="round" stroke-width="1.5" stroke="#243746" id="Oval-outline"></circle>
+                    <path stroke-linejoin="round" stroke-linecap="round" stroke-width="1.5" stroke="#FFFFFF" id="outline" d="M28.0494469,14.7649909 C30.8108706,14.7649909 33.0494469,17.0035672 33.0494469,19.7649909 L33.0494469,28.3781918 C33.0494469,31.1396155 30.8108706,33.3781918 28.0494469,33.3781918 L19.4947,33.3781918 C16.7332762,33.3781918 14.4947,31.1396155 14.4947,28.3781918 L14.4947,19.7649909 C14.4947,17.0035672 16.7332762,14.7649909 19.4947,14.7649909 L28.0494469,14.7649909 Z M23.7720734,19.7097763 C21.4026482,19.7097763 19.4818497,21.6305749 19.4818497,24 C19.4818497,26.3694251 21.4026482,28.2902237 23.7720734,28.2902237 C26.1414985,28.2902237 28.0622971,26.3694251 28.0622971,24 C28.0622971,21.6305749 26.1414985,19.7097763 23.7720734,19.7097763 Z"></path>
+                    <circle r="1.18333474" cy="18.6044036" cx="29.2456318" fill="#FFFFFF" id="Oval"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

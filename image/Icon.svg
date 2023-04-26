@@ -1,0 +1,11 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 12 12" height="12px" width="12px">
+    <title>information-circle-gravy-16x16</title>
+    <g fill-rule="evenodd" fill="none" stroke-width="1" stroke="none" id="Icons">
+        <g transform="translate(-85.000000, -381.000000)" id="icons">
+            <g transform="translate(83.000000, 379.000000)" id="Group">
+                <circle r="5.24748836" cy="7.99974487" cx="7.99974487" stroke-linejoin="round" stroke-linecap="round" stroke-width="1.5" stroke="#243746" id="Oval"></circle>
+                <path fill="#243746" id="i" d="M8.00474487,6.18474487 C8.39474487,6.18474487 8.73474487,5.89474487 8.73474487,5.47474487 C8.73474487,5.06474487 8.39474487,4.76474487 8.00474487,4.76474487 C7.60474487,4.76474487 7.26474487,5.06474487 7.26474487,5.47474487 C7.26474487,5.89474487 7.60474487,6.18474487 8.00474487,6.18474487 Z M8.62474487,11.2347449 L8.62474487,6.76474487 L7.38474487,6.76474487 L7.38474487,11.2347449 L8.62474487,11.2347449 Z"></path>
+            </g>
+        </g>
+    </g>
+</svg>
